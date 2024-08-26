@@ -1,3 +1,4 @@
-- My day job is around infrastructure drudgery.
-- My OSS interest: Linux system software.
+- Job: toiling through computer systems.
+- Skills: low-level system programming
+- Interests: Linux ecosystem.
 - How to reach me: emails are welcomed.
