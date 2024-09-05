@@ -1,4 +1,5 @@
-- Job: toiling through computer systems.
-- Skills: low-level system programming
-- Interests: Linux ecosystem.
+- Job: Computer system engineer.
+- Interests:
+  - Linux ecosystem
+  - Low-level system programming
 - How to reach me: emails are welcomed.
